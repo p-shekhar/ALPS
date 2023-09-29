@@ -11,4 +11,4 @@ This repository provides the code for following functionalities
 
 And various other foundational functions on which these higher level functions are built.
 
-In case of any doubts or problems contact me directly at: prashant.shekhar@tufts.edu
+In case of any doubts or problems contact me directly at: shekharp.erau@gmail.com
